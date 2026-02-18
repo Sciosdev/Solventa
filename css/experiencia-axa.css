@@ -93,39 +93,13 @@
 }
 
 .experiencia-axa__media {
-  display: flex;
-  flex-direction: column;
-  gap: 0;
   align-self: flex-start;
 }
 
-.experiencia-axa__media-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 0;
-}
-
-.experiencia-axa__media-grid img {
+.experiencia-axa__media-image {
   width: 100%;
-  aspect-ratio: 5 / 4;
-  object-fit: cover;
-  filter: saturate(85%) hue-rotate(5deg);
-}
-
-.experiencia-axa__brand-block {
-  background: #08199a;
-  min-height: 150px;
-  display: flex;
-  align-items: flex-end;
-  padding: 1rem;
-}
-
-.experiencia-axa__brand-block span {
-  color: #ffffff;
-  font-family: "Heebo", sans-serif;
-  font-size: 3rem;
-  font-weight: 800;
-  letter-spacing: -0.04em;
+  display: block;
+  height: auto;
 }
 
 @media (max-width: 960px) {
