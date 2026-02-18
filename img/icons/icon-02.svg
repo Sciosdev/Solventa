@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108.762" height="92.69" viewBox="0 0 108.762 92.69">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-02" transform="translate(-336.943 -46.974)">
+    <path id="Trazado_675" data-name="Trazado 675" d="M437.069,95.851V89.718H445.7a9.147,9.147,0,0,0-17.272,0h-13.39a9.147,9.147,0,0,0-17.272,0h8.636v6.133h-8.636a9.147,9.147,0,0,0,17.272,0h13.39a9.147,9.147,0,0,0,17.272,0Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_722" data-name="Trazado 722" d="M354.322,61.457l5.794,2.9v5.793a5.811,5.811,0,0,1-5.794,5.793h-5.793a5.81,5.81,0,0,1-5.793-5.793V52.767a5.81,5.81,0,0,1,5.793-5.793h5.793a5.811,5.811,0,0,1,5.794,5.793V58.56Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_723" data-name="Trazado 723" d="M348.529,125.181l5.793,2.9v5.793a5.81,5.81,0,0,1-5.793,5.793h-5.793a5.81,5.81,0,0,1-5.793-5.793v-17.38a5.81,5.81,0,0,1,5.793-5.793h5.793a5.81,5.81,0,0,1,5.793,5.793v5.794Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_724" data-name="Trazado 724" d="M406.46,52.767v17.38a5.81,5.81,0,0,1-5.793,5.793h-5.793a5.81,5.81,0,0,1-5.793-5.793V64.354l5.793-2.9-5.793-2.9V52.767a5.81,5.81,0,0,1,5.793-5.793h5.793a5.81,5.81,0,0,1,5.793,5.793Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_725" data-name="Trazado 725" d="M412.253,116.491v17.38a5.81,5.81,0,0,1-5.793,5.793h-5.793a5.81,5.81,0,0,1-5.793-5.793v-5.793l5.793-2.9-5.793-2.9v-5.794a5.81,5.81,0,0,1,5.793-5.793h5.793a5.81,5.81,0,0,1,5.793,5.793Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_726" data-name="Trazado 726" d="M389.081,122.285V104.21l-5.793-11.586V64.354h5.793l5.793-2.9-5.793-2.9H360.116l-5.794,2.9,5.794,2.9h5.793v28.27l-5.793,11.586v18.075h-5.794l-5.793,2.9,5.793,2.9h40.552l5.793-2.9-5.793-2.9ZM371.7,64.354h5.793V75.94H371.7Zm0,29.66V81.733h5.793V94.014L382.94,104.9H366.256Zm11.586,28.271H365.909V110.7h17.379Zm0,0" fill="#6427c3"/>
+    <rect id="Rectángulo_318" data-name="Rectángulo 318" width="5.793" height="5.793" transform="translate(348.529 122.285)" fill="#9866ff"/>
+    <rect id="Rectángulo_319" data-name="Rectángulo 319" width="5.793" height="5.793" transform="translate(394.874 122.285)" fill="#9866ff"/>
+    <rect id="Rectángulo_320" data-name="Rectángulo 320" width="5.793" height="5.793" transform="translate(389.081 58.56)" fill="#9866ff"/>
+    <rect id="Rectángulo_321" data-name="Rectángulo 321" width="5.793" height="5.793" transform="translate(354.322 58.56)" fill="#9866ff"/>
+  </g>
+</svg>

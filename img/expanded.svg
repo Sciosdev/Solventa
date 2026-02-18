@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 30000 30000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#39344B;stroke-width:66;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:60 320}
+    .fil4{fill: none}
+    .fil3 {fill:#39344B}
+    .fil2 {fill:#8B869D}
+    .fil1 {fill:#BCB7CE}
+    .fil0 {fill:#DCD7EE}
+
+    .fil0,.fil1,.fil2,.fil3,.fil4{-webkit-animation: anima 10s linear 1s infinite; animation: anima 10s linear 1s infinite; -webkit-transform: scale(0.1); transform: scale(0.1); -webkit-transform-origin: 50% 50%; transform-origin: 50% 50%; opacity: 0.1}
+
+    @-webkit-keyframes anima
+    {
+        0%{-webkit-transform: scale(0.1) rotate(0deg); transform: scale(0.1) rotate(0deg); opacity: 0.1}
+        33%{-webkit-transform: scale(0.4) rotate(120deg); transform: scale(0.4) rotate(120deg); opacity: 1}
+        66%{-webkit-transform: scale(1) rotate(240deg); transform: scale(1) rotate(240deg); opacity: 0}
+        90%{-webkit-transform: scale(1.5) rotate(340deg); transform: scale(1.5) rotate(340deg); opacity: 0}
+        100%{-webkit-transform: scale(0.3) rotate(360deg); transform: scale(0.3) rotate(360deg); opacity: 0}
+    }
+
+    @keyframes anima
+    {
+        0%{-webkit-transform: scale(0.1) rotate(0deg); transform: scale(0.1) rotate(0deg); opacity: 0.1}
+        33%{-webkit-transform: scale(0.4) rotate(120deg); transform: scale(0.4) rotate(120deg); opacity: 1}
+        66%{-webkit-transform: scale(1) rotate(240deg); transform: scale(1) rotate(240deg); opacity: 0}
+        90%{-webkit-transform: scale(1.5) rotate(340deg); transform: scale(1.5) rotate(340deg); opacity: 0}
+        100%{-webkit-transform: scale(0.3) rotate(360deg); transform: scale(0.3) rotate(360deg); opacity: 0}
+    }
+
+    .fil1{-webkit-animation-duration: 4.5s; animation-duration: 4.5s; -webkit-animation-delay: 0.5s; animation-delay: 0.5s}
+    .fil2{-webkit-animation-duration: 3.2s; animation-duration: 3.2s; -webkit-animation-delay: 1.8s; animation-delay: 1.8s}
+    .fil3{-webkit-animation-duration: 2.8s; animation-duration: 2.8s; -webkit-animation-delay: 3.1s; animation-delay: 3.1s}
+
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <g id="_1803174320880">
+   <g>
+    <g id="_1803170069488">
+     <path id="Elipse_176" class="fil0" d="M24364 15000c0,-5169 -4191,-9364 -9364,-9364 -5169,0 -9364,4195 -9364,9364 0,5173 4195,9364 9364,9364 5173,0 9364,-4191 9364,-9364z" data-name="Elipse 176"/>
+     <path id="Elipse_175" class="fil1" d="M23249 15000c0,-4553 -3692,-8245 -8249,-8245 -4553,0 -8245,3692 -8245,8245 0,4557 3692,8249 8245,8249 4557,0 8249,-3692 8249,-8249z" data-name="Elipse 175"/>
+     <path id="Elipse_187" class="fil2" d="M22442 15000c0,-4109 -3333,-7438 -7442,-7438 -4109,0 -7438,3329 -7438,7438 0,4109 3329,7442 7438,7442 4109,0 7442,-3333 7442,-7442z" data-name="Elipse 187"/>
+     <path id="Elipse_188" class="fil3" d="M21526 15000c0,-3602 -2924,-6522 -6526,-6522 -3602,0 -6522,2920 -6522,6522 0,3602 2920,6526 6522,6526 3602,0 6526,-2924 6526,-6526z" data-name="Elipse 188"/>
+     <path class="fil4 str0" d="M15000 4236c5945,0 10764,4819 10764,10764 0,5945 -4819,10764 -10764,10764 -5945,0 -10764,-4819 -10764,-10764 0,-5945 4819,-10764 10764,-10764z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

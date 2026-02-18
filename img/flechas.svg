@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 16002 4868"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .trazo{-webkit-transform-origin: 50% 50%; transform-origin: 50% 50%;}
+    .trazo{-webkit-animation: trazo 5s linear infinite; animation: trazo 5s linear infinite; opacity: 0}
+
+    @-webkit-keyframes trazo
+    {
+      to{-webkit-transform: translateX(50%); transform: translateX(50%);}
+    }
+
+    @keyframes trazo
+    {
+        0%{-webkit-transform: translateX(0%); transform: translateX(0%); fill: #53e3be; opacity:0}
+        25%{-webkit-transform: translateX(25%); transform: translateX(25%); fill: #60ddbd; opacity:1}
+        70%{-webkit-transform: translateX(70%); transform: translateX(70%); fill: #82e7cd; opacity:1}
+        80%{-webkit-transform: translateX(80%); transform: translateX(80%); fill: #8cf9de; opacity:0}
+        100%{-webkit-transform: translateX(100%); transform: translateX(100%); fill: #98f3d7; opacity:0}
+    }
+
+    .fil1 {fill:#53e3be; animation-delay: 4s;}
+    .fil2 {fill:#60ddbd; animation-delay: 3s;}
+    .fil3 {fill:#82e7cd; animation-delay: 2s;}
+    .fil4 {fill:#8cf9de; animation-delay: 1s;}
+    .fil5 {fill:#98f3d7; animation-delay: 0s;}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2365575941136">
+   <path class="trazo fil1" d="M2069 2061c136,72 228,217 228,373 0,156 -92,301 -228,373l-1440 785c-64,28 -136,45 -200,45 -237,0 -429,-192 -429,-429l0 -1548c0,-237 192,-429 429,-429 64,0 136,20 200,56l1440 774 0 0 0 0z" data-name="Trazado 172"/>
+   <path class="trazo fil2" d="M2077 2061c137,72 217,217 217,373 0,156 -80,301 -217,373l-1448 785c-55,28 -128,45 -200,45 -240,0 -421,-192 -421,-429l-8 -1548c8,-237 189,-429 429,-429 72,0 145,20 200,56l1448 774 0 0 0 0z" data-name="Trazado 173"/>
+   <path class="trazo fil3" d="M2069 2061c136,72 220,217 220,373 0,156 -84,301 -220,373l-1448 785c-56,28 -128,45 -201,45 -228,0 -420,-192 -420,-429l0 -1548c0,-237 192,-429 420,-429 73,0 145,20 201,56l1448 774 0 0 0 0z" data-name="Trazado 174"/>
+   <path class="trazo fil4" d="M2069 2061c136,72 228,217 228,373 0,156 -92,301 -228,373l-1440 785c-64,28 -136,45 -200,45 -237,0 -429,-192 -429,-429l0 -1548c0,-237 192,-429 429,-429 64,0 136,20 200,56l1440 774 0 0 0 0z" data-name="Trazado 175"/>
+   <path class="trazo fil5" d="M2080 2061c136,72 217,217 217,373 0,156 -81,301 -217,373l-1451 785c-53,28 -128,45 -200,45 -237,0 -418,-192 -418,-429l-11 -1548c11,-237 192,-429 429,-429 72,0 147,20 200,56l1451 774 0 0 0 0z" data-name="Trazado 176"/>
+  </g>
+ </g>
+</svg>

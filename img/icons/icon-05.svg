@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98.121" height="67.458" viewBox="0 0 98.121 67.458">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-05" transform="translate(-134.153 -290.366)">
+    <path id="Trazado_672" data-name="Trazado 672" d="M232.274,302.631v42.928h-24.53v6.133l-18.4,1.533-18.4-1.533v-6.133h-18.4V333.294h-6.133v-6.133l6.133-3.066-6.133-3.066V314.9h6.133V302.631h24.53l12.265,6.133,12.265-6.133Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_673" data-name="Trazado 673" d="M207.744,351.692l-18.4,1.533-18.4-1.533h-6.133v6.132h6.133l18.4-1.533,18.4,1.533h6.132v-6.132Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_674" data-name="Trazado 674" d="M204.678,327.161v-6.132h8.636a9.147,9.147,0,0,0-17.272,0H182.651a9.147,9.147,0,0,0-17.272,0h8.636v6.132h-8.636a9.147,9.147,0,0,0,17.272,0h13.391a9.147,9.147,0,0,0,17.272,0Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_676" data-name="Trazado 676" d="M146.418,321.029l6.133,3.066-6.133,3.066h-6.132v6.133h-6.133V314.9h6.133v6.133Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_677" data-name="Trazado 677" d="M207.744,290.366V296.5h-6.133v6.132l-12.265,6.133-12.265-6.133V296.5h-6.132v-6.133Zm0,0" fill="#6427c3"/>
+    <rect id="Rectángulo_286" data-name="Rectángulo 286" width="6.133" height="6.133" transform="translate(146.418 321.029)" fill="#9866ff"/>
+    <rect id="Rectángulo_287" data-name="Rectángulo 287" width="24.53" height="6.133" transform="translate(177.081 302.631)" fill="#9866ff"/>
+    <rect id="Rectángulo_288" data-name="Rectángulo 288" width="36.795" height="6.133" transform="translate(170.949 351.692)" fill="#9866ff"/>
+  </g>
+</svg>

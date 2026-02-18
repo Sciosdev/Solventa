@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 1542 1557" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .icono {fill:#44FFBD}
+    .icono{-webkit-animation: anima 2000ms ease 1s infinite; animation: anima 2000ms ease 1s infinite; -webkit-transform-origin: 50% 50%; transform-origin: 50% 50%;}
+
+    @-webkit-keyframes anima
+    {
+      0%{-webkit-transform: rotate(0deg); transform: rotate(0deg);}
+      100%{-webkit-transform: rotate(360deg); transform: rotate(360deg);}
+    }
+
+    @keyframes anima
+    {
+      0%{-webkit-transform: rotate(0deg); transform: rotate(0deg);}
+      100%{-webkit-transform: rotate(360deg); transform: rotate(360deg);}
+    }
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <path class="icono" d="M1542 786l0 -21 -580 0 0 -11 568 -101 -3 -20 -565 99 0 -13 534 -194 -7 -20 -527 192 0 -18 477 -275 -10 -18 -467 269 0 -24 401 -336 -14 -16 -387 329 0 -21 -31 0 347 -408 -16 -13 -354 421 -19 0 280 -485 -19 -10 -285 495 -14 0 197 -541 -20 -7 -199 548 -11 0 101 -575 -21 -4 -102 579 -10 0 0 -587 -21 0 0 587 -10 0 -102 -575 -20 3 101 572 -12 0 -197 -541 -20 7 194 534 -15 0 -280 -485 -18 11 273 474 -22 0 -342 -408 -16 13 331 395 -30 0 0 28 -401 -336 -14 16 415 347 0 22 -478 -276 -10 18 488 282 0 15 -534 -194 -7 19 541 197 0 13 -568 -101 -4 21 572 101 0 11 -580 0 0 21 580 0 0 12 -568 100 3 21 565 -100 0 14 -534 194 7 19 527 -191 0 17 -477 276 10 18 467 -270 0 24 -401 337 13 16 388 -325 0 16 41 0 -342 409 16 13 353 -422 20 0 -280 485 18 11 286 -495 13 0 -196 540 19 8 200 -548 11 0 -102 575 21 4 102 -580 10 0 0 588 21 0 0 -588 11 0 101 576 21 -4 -101 -572 12 0 197 541 19 -7 -194 -534 16 0 280 485 18 -11 -274 -474 22 0 343 409 16 -14 -335 -395 19 0 0 -32 401 341 13 -16 -414 -348 0 -21 477 276 11 -19 -488 -281 0 -15 534 194 7 -20 -541 -197 0 -12 568 100 4 -21 -572 -100 0 -12 580 0zm-771 147l-154 -155 154 -154 154 154 -154 155z"/>
+ </g>
+</svg>

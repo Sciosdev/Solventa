@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="95.498" height="109.14" viewBox="0 0 95.498 109.14">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-07" transform="translate(-141.597 -390.944)">
+    <path id="Trazado_678" data-name="Trazado 678" d="M223.453,397.765V425.05l-34.107,6.821L155.24,425.05V397.765a6.841,6.841,0,0,1,6.821-6.821h54.57a6.841,6.841,0,0,1,6.822,6.821Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_679" data-name="Trazado 679" d="M168.882,459.156v40.928H141.6V459.156h10.232l3.411,6.822,3.411-6.822Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_680" data-name="Trazado 680" d="M202.989,459.156v40.928H175.7V459.156h10.232l3.41,6.822,3.411-6.822Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_681" data-name="Trazado 681" d="M237.1,459.156v40.928H209.81V459.156h10.232l3.411,6.822,3.41-6.822Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_682" data-name="Trazado 682" d="M230.274,425.05v6.821a6.842,6.842,0,0,1-6.821,6.822h-30.7v6.821h34.106v13.642l-3.41,6.822-3.411-6.822v-6.821H192.757v6.821l-3.411,6.822-3.41-6.822v-6.821H158.651v6.821l-3.411,6.822-3.411-6.822V445.514h34.107v-6.821h-30.7a6.842,6.842,0,0,1-6.821-6.822V425.05h6.821l34.106,6.821,34.107-6.821Zm0,0" fill="#6427c3"/>
+    <rect id="Rectángulo_289" data-name="Rectángulo 289" width="13.643" height="6.821" transform="translate(148.419 486.441)" fill="#6427c3"/>
+    <rect id="Rectángulo_290" data-name="Rectángulo 290" width="13.643" height="6.821" transform="translate(148.419 472.799)" fill="#6427c3"/>
+    <rect id="Rectángulo_291" data-name="Rectángulo 291" width="13.643" height="6.821" transform="translate(182.525 472.799)" fill="#6427c3"/>
+    <rect id="Rectángulo_292" data-name="Rectángulo 292" width="13.643" height="6.821" transform="translate(182.525 486.441)" fill="#6427c3"/>
+    <rect id="Rectángulo_293" data-name="Rectángulo 293" width="13.643" height="6.821" transform="translate(216.631 486.441)" fill="#6427c3"/>
+    <rect id="Rectángulo_294" data-name="Rectángulo 294" width="13.643" height="6.821" transform="translate(216.631 472.799)" fill="#6427c3"/>
+    <path id="Trazado_683" data-name="Trazado 683" d="M206.4,411.407v-6.821h9.606a10.174,10.174,0,0,0-19.211,0H181.9a10.175,10.175,0,0,0-19.212,0h9.606v6.821h-9.606a10.174,10.174,0,0,0,19.212,0h14.9a10.173,10.173,0,0,0,19.211,0Zm0,0" fill="#6427c3"/>
+    <rect id="Rectángulo_295" data-name="Rectángulo 295" width="68.213" height="6.821" transform="translate(155.24 425.05)" fill="#9866ff"/>
+    <rect id="Rectángulo_296" data-name="Rectángulo 296" width="6.821" height="6.821" transform="translate(151.829 459.156)" fill="#9866ff"/>
+    <rect id="Rectángulo_297" data-name="Rectángulo 297" width="6.821" height="6.821" transform="translate(185.936 459.156)" fill="#9866ff"/>
+    <rect id="Rectángulo_298" data-name="Rectángulo 298" width="6.821" height="6.821" transform="translate(220.042 459.156)" fill="#9866ff"/>
+  </g>
+</svg>

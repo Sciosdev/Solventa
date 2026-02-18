@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-18" transform="translate(-292.458 -184.548)">
+    <path id="Trazado_617" data-name="Trazado 617" d="M1009.461,229.548h-72v-40.5a4.5,4.5,0,0,1,4.5-4.5h63a4.5,4.5,0,0,1,4.5,4.5Zm0,0" transform="translate(-645.003)" fill="#6427c3"/>
+    <path id="Trazado_618" data-name="Trazado 618" d="M1004.961,243.048h-63a4.5,4.5,0,0,1-4.5-4.5v-9h72v9a4.5,4.5,0,0,1-4.5,4.5Zm0,0" transform="translate(-645.003)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_244" data-name="Rectángulo 244" width="36" height="4.5" transform="translate(310.458 252.048)" fill="#6427c3"/>
+    <path id="Trazado_619" data-name="Trazado 619" d="M995.961,204.8a2.25,2.25,0,1,1,2.25-2.25h4.5a6.731,6.731,0,0,0-4.5-6.337v-2.663h-4.5v2.663a6.734,6.734,0,0,0,2.25,13.087,2.25,2.25,0,1,1-2.25,2.25h-4.5a6.733,6.733,0,0,0,4.5,6.337v2.663h4.5v-2.663a6.734,6.734,0,0,0-2.25-13.087Zm0,0" transform="translate(-645.003)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_620" data-name="Trazado 620" d="M963.336,243.048l-2.25,9h24.75l-2.25-9Zm0,0" transform="translate(-645.003)" fill="#6427c3"/>
+    <path id="Trazado_621" data-name="Trazado 621" d="M982.461,238.548h-18l-1.125,4.5h20.25Zm0,0" transform="translate(-645.003)" fill="#9866ff"/>
+    <path id="Trazado_622" data-name="Trazado 622" d="M959.961,256.548h27l-1.125-4.5h-24.75Zm0,0" transform="translate(-645.003)" fill="#9866ff"/>
+    <rect id="Rectángulo_245" data-name="Rectángulo 245" width="9" height="18" transform="translate(299.208 202.548)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_246" data-name="Rectángulo 246" width="9" height="22.5" transform="translate(312.708 198.048)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_247" data-name="Rectángulo 247" width="9" height="27" transform="translate(326.208 193.548)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

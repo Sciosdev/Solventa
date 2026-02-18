@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="icon-open" transform="translate(-300 -508)">
+    <g id="export" transform="translate(300 508)">
+      <path id="Vector" d="M0,6.241,6.241,0" transform="translate(19.805 5.953)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Vector-2" data-name="Vector" d="M3.653,3.653V0H0" transform="translate(23.002 5.345)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Vector-3" data-name="Vector" d="M9.59,0H7.459C2.131,0,0,2.131,0,7.459v6.393c0,5.328,2.131,7.459,7.459,7.459h6.393c5.328,0,7.459-2.131,7.459-7.459V11.721" transform="translate(5.345 5.345)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H32V32H0Z" transform="translate(32 32) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

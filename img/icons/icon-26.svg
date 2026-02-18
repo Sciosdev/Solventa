@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.344" height="76.344" viewBox="0 0 76.344 76.344">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-26" transform="translate(-282.322 -530.388)">
+    <path id="Trazado_628" data-name="Trazado 628" d="M989.354,606.732h-62.03V554.246h76.344v38.172" transform="translate(-645.003)" fill="#6427c3"/>
+    <rect id="Rectángulo_257" data-name="Rectángulo 257" width="76.344" height="14.315" transform="translate(282.322 539.931)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_258" data-name="Rectángulo 258" width="4.772" height="19.086" transform="translate(291.865 530.388)" fill="#6427c3"/>
+    <rect id="Rectángulo_259" data-name="Rectángulo 259" width="4.772" height="19.086" transform="translate(318.108 530.388)" fill="#6427c3"/>
+    <rect id="Rectángulo_260" data-name="Rectángulo 260" width="4.772" height="19.086" transform="translate(344.351 530.388)" fill="#6427c3"/>
+    <rect id="Rectángulo_261" data-name="Rectángulo 261" width="4.772" height="9.543" transform="translate(291.865 539.931)" fill="#9866ff"/>
+    <rect id="Rectángulo_262" data-name="Rectángulo 262" width="4.772" height="9.543" transform="translate(318.108 539.931)" fill="#9866ff"/>
+    <rect id="Rectángulo_263" data-name="Rectángulo 263" width="4.772" height="9.543" transform="translate(344.351 539.931)" fill="#9866ff"/>
+    <path id="Trazado_629" data-name="Trazado 629" d="M965.5,578.1a2.386,2.386,0,1,1,2.385-2.385h4.772a7.134,7.134,0,0,0-4.872-6.751h.1v-5.178h-4.771v5.178h.1a7.139,7.139,0,0,0,2.286,13.908,2.385,2.385,0,1,1-2.386,2.386h-4.772a7.132,7.132,0,0,0,4.871,6.749h-.1v5.179h4.771V592.01h-.1A7.139,7.139,0,0,0,965.5,578.1Zm0,0" transform="translate(-645.003)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_630" data-name="Trazado 630" d="M989.354,606.732l14.315-14.314H989.354Zm0,0" transform="translate(-645.003)" fill="#9866ff"/>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1837 1837"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0,.fil1 {fill:#44ffbd; -webkit-animation: anima 2s ease 1s infinite; animation: anima 2s ease 1s infinite;}
+    .fil0 {opacity:0.3; -webkit-animation-delay: 1.5s; animation-delay: 1.25s;}
+
+    @-webkit-keyframes anima
+    {
+      0%{-webkit-transform: translateY(0%); transform: translateY(0%);}
+      50%{-webkit-transform: translateY(10%); transform: translateY(10%);}
+      100%{-webkit-transform: translateY(0%); transform: translateY(0%);}
+    }
+
+    @keyframes anima
+    {
+      0%{-webkit-transform: translateY(0%); transform: translateY(0%);}
+      50%{-webkit-transform: translateY(10%); transform: translateY(10%);}
+      100%{-webkit-transform: translateY(0%); transform: translateY(0%);}
+    }
+
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2683752777744">
+   <g>
+    <path class="fil0" d="M838 1041l-151 -261 -151 -262c-8,-14 -12,-30 -12,-46 0,-51 41,-93 93,-93 0,0 0,0 0,0l603 0c51,0 93,42 93,93 0,16 -4,32 -12,46l-151 262 -151 261c-17,29 -47,47 -81,47 -33,0 -64,-18 -80,-47l0 0z" data-name="Trazado 178"/>
+    <path class="fil1" d="M838 1411l-151 -261 -151 -261c-8,-14 -12,-30 -12,-47 0,-51 41,-93 93,-93 0,0 0,0 0,0l603 0c51,0 93,42 93,93 0,17 -4,33 -12,47l-151 261 -151 261c-17,29 -47,47 -81,47 -33,0 -64,-18 -80,-47l0 0z" data-name="Trazado 179"/>
+   </g>
+  </g>
+ </g>
+</svg>

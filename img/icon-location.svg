@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="icon-location" transform="translate(-79 -399)">
+    <g id="Grupo_127" data-name="Grupo 127" transform="translate(86 403)">
+      <g id="Grupo_125" data-name="Grupo 125">
+        <path id="Trazado_132" data-name="Trazado 132" d="M35.842,424.548h0a.821.821,0,0,1-.6-.263c-.351-.378-8.595-9.307-8.595-14.2a9.2,9.2,0,0,1,18.395,0c0,4.893-8.244,13.822-8.595,14.2A.823.823,0,0,1,35.842,424.548Zm0-22.014a7.56,7.56,0,0,0-7.552,7.552c0,3.247,4.99,9.533,7.552,12.416,2.562-2.882,7.552-9.168,7.552-12.416A7.561,7.561,0,0,0,35.842,402.533Z" transform="translate(-26.645 -400.888)" fill="white"/>
+      </g>
+      <g id="Grupo_126" data-name="Grupo 126" transform="translate(5.056 4.655)">
+        <path id="Trazado_133" data-name="Trazado 133" d="M38.847,416.59a4.141,4.141,0,1,1,4.141-4.141A4.146,4.146,0,0,1,38.847,416.59Zm0-6.636a2.5,2.5,0,1,0,2.5,2.5A2.5,2.5,0,0,0,38.847,409.954Z" transform="translate(-34.706 -408.309)" fill="white"/>
+      </g>
+    </g>
+  </g>
+</svg>

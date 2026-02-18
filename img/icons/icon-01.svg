@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82.173" height="77.037" viewBox="0 0 82.173 77.037">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-01" transform="translate(-147.26 -57.907)">
+    <path id="Trazado_716" data-name="Trazado 716" d="M229.433,104.129v25.679H198.618l-5.136,5.136V109.265l15.407-5.136Zm0,0" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_312" data-name="Rectángulo 312" width="5.136" height="5.136" transform="translate(198.618 114.401)" fill="#6427c3"/>
+    <rect id="Rectángulo_313" data-name="Rectángulo 313" width="5.136" height="5.136" transform="translate(208.889 114.401)" fill="#6427c3"/>
+    <rect id="Rectángulo_314" data-name="Rectángulo 314" width="5.136" height="5.136" transform="translate(219.161 114.401)" fill="#6427c3"/>
+    <path id="Trazado_717" data-name="Trazado 717" d="M203.754,83.586l5.135,10.271v10.272l-15.407,5.136H172.939l-10.272,10.271V109.265H152.4V93.857l5.136-10.271L152.4,73.314V57.907h56.493V73.314Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_718" data-name="Trazado 718" d="M178.075,84.45h-5.136V81.882a2.568,2.568,0,1,0-5.136,0V84.45h-5.136V81.882a7.7,7.7,0,0,1,15.408,0Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_719" data-name="Trazado 719" d="M198.618,84.45h-5.136V81.882a2.568,2.568,0,1,0-5.136,0V84.45h-5.135V81.882a7.7,7.7,0,0,1,15.407,0Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_720" data-name="Trazado 720" d="M152.4,73.314l5.136,10.272L152.4,93.857a5.151,5.151,0,0,1-5.136-5.135V78.45a5.151,5.151,0,0,1,5.136-5.136Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_721" data-name="Trazado 721" d="M214.025,78.45V88.722a5.151,5.151,0,0,1-5.136,5.135l-5.135-10.271,5.135-10.272a5.151,5.151,0,0,1,5.136,5.136Zm0,0" fill="#6427c3"/>
+    <rect id="Rectángulo_315" data-name="Rectángulo 315" width="15.407" height="5.136" transform="translate(193.482 104.129)" fill="#9866ff"/>
+    <rect id="Rectángulo_316" data-name="Rectángulo 316" width="5.136" height="20.543" transform="translate(152.396 73.314)" fill="#9866ff"/>
+    <rect id="Rectángulo_317" data-name="Rectángulo 317" width="5.136" height="20.543" transform="translate(203.754 73.314)" fill="#9866ff"/>
+  </g>
+</svg>

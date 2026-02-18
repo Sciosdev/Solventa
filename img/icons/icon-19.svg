@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.885" height="86.885" viewBox="0 0 86.885 86.885">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-19" transform="translate(-436.71 -178.236)">
+    <path id="Trazado_640" data-name="Trazado 640" d="M1136.016,205.388a25.305,25.305,0,0,1-.706,6.136A27.26,27.26,0,0,0,1115,231.833a25.3,25.3,0,0,1-6.136.706,27.152,27.152,0,1,1,27.151-27.151Zm0,0" transform="translate(-645.003)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_641" data-name="Trazado 641" d="M1108.865,202.673a2.715,2.715,0,1,1,2.715-2.715h5.43a8.132,8.132,0,0,0-5.43-7.646v-5.93h-5.43v5.93a8.125,8.125,0,0,0,2.715,15.791,2.715,2.715,0,1,1-2.715,2.715h-5.431a8.131,8.131,0,0,0,5.431,7.645v5.931h5.43v-5.931a8.125,8.125,0,0,0-2.715-15.79Zm0,0" transform="translate(-645.003)" fill="#6427c3"/>
+    <path id="Trazado_642" data-name="Trazado 642" d="M1135.31,211.524A27.26,27.26,0,0,1,1115,231.833a27.26,27.26,0,0,1,20.309-20.309Zm0,0" transform="translate(-645.003)" fill="#9866ff"/>
+    <path id="Trazado_643" data-name="Trazado 643" d="M1168.6,237.97a27.151,27.151,0,0,1-54.3,0,25.356,25.356,0,0,1,.706-6.137,27.26,27.26,0,0,0,20.309-20.309,25.357,25.357,0,0,1,6.137-.706A27.162,27.162,0,0,1,1168.6,237.97Zm0,0" transform="translate(-645.003)" fill="#6427c3"/>
+    <path id="Trazado_644" data-name="Trazado 644" d="M1141.447,194.527v5.431h5.43v5.43h5.43V194.527Zm0,0" transform="translate(-645.003)" fill="#6427c3"/>
+    <path id="Trazado_645" data-name="Trazado 645" d="M1108.865,248.83V243.4h-5.43v-5.43H1098v10.86Zm0,0" transform="translate(-645.003)" fill="#6427c3"/>
+    <path id="Trazado_646" data-name="Trazado 646" d="M1152.307,232.539a8.154,8.154,0,0,0-8.145-8.145h-2.715v-5.43h-5.431v5.43h-5.43v27.152h5.43v5.43h5.431v-5.43h2.715a8.111,8.111,0,0,0,6.027-13.576,8.081,8.081,0,0,0,2.118-5.431Zm-8.145,13.576h-8.146v-5.43h8.146a2.715,2.715,0,0,1,0,5.43Zm0-10.86h-8.146v-5.431h8.146a2.715,2.715,0,0,1,0,5.431Zm0,0" transform="translate(-645.003)"/>
+  </g>
+</svg>

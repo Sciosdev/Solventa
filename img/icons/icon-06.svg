@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.542" height="75.542" viewBox="0 0 75.542 75.542">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-06" transform="translate(-347.481 -261.112)">
+    <path id="Trazado_737" data-name="Trazado 737" d="M423.023,275.276V289.44a4.736,4.736,0,0,1-4.722,4.722H413.58l-2.361-4.722-2.36,4.722H394.694a4.736,4.736,0,0,1,4.722-4.722V275.276a4.735,4.735,0,0,1,4.721-4.721H418.3a4.735,4.735,0,0,1,4.722,4.721Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_738" data-name="Trazado 738" d="M394.694,303.6h-4.721l-2.7,3.373-2.023-3.373H380.53l-4.721,4.722-4.721-4.722h-4.722l-2.023,3.373-2.7-3.373h-4.722a9.47,9.47,0,0,0-9.442,9.443v23.607h9.442l7.082-9.443h23.607l7.082,9.443h9.443V313.047a9.47,9.47,0,0,0-9.443-9.443Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_739" data-name="Trazado 739" d="M418.3,282.358a7.059,7.059,0,0,1-4.721,6.657v5.147h-4.721v-5.147a7.053,7.053,0,0,1,0-13.314v9.018h4.721V275.7a7.059,7.059,0,0,1,4.721,6.657Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_740" data-name="Trazado 740" d="M389.973,275.276V289.44a9.472,9.472,0,0,1-9.443,9.443V303.6l-4.721,4.722-4.721-4.722v-4.721a9.471,9.471,0,0,1-9.443-9.443V275.276L375.809,280Zm0,0" fill="#6427c3"/>
+    <path id="Trazado_741" data-name="Trazado 741" d="M389.973,265.833v9.443L375.809,280l-14.164-4.721v-9.443a4.736,4.736,0,0,1,4.721-4.721h18.886a4.736,4.736,0,0,1,4.721,4.721Zm0,0" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_322" data-name="Rectángulo 322" width="9.443" height="4.721" transform="translate(371.088 265.833)" fill="#6427c3"/>
+    <path id="Trazado_742" data-name="Trazado 742" d="M394.694,322.49v14.164H356.923V322.49a4.736,4.736,0,0,0,4.722-4.722V303.6h4.721v14.164h18.886V303.6h4.721v14.164a4.736,4.736,0,0,0,4.721,4.722Zm0,0" fill="url(#linear-gradient)"/>
+    <path id="Trazado_743" data-name="Trazado 743" d="M389.973,275.276a9.472,9.472,0,0,1-9.443,9.443h-9.442a9.471,9.471,0,0,1-9.443-9.443Zm0,0" fill="#9866ff"/>
+    <path id="Trazado_744" data-name="Trazado 744" d="M380.53,303.6a4.721,4.721,0,1,1-9.442,0Zm0,0" fill="#9866ff"/>
+  </g>
+</svg>

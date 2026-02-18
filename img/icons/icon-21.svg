@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83.029" height="83.029" viewBox="0 0 83.029 83.029">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-21" transform="translate(-441.484 -286.874)">
+    <rect id="Rectángulo_272" data-name="Rectángulo 272" width="83.029" height="5.189" transform="translate(441.484 364.714)" fill="#6427c3"/>
+    <rect id="Rectángulo_273" data-name="Rectángulo 273" width="15.568" height="31.136" transform="translate(446.673 333.578)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_274" data-name="Rectángulo 274" width="15.568" height="46.704" transform="translate(467.431 318.01)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_275" data-name="Rectángulo 275" width="15.568" height="62.272" transform="translate(488.188 302.442)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_276" data-name="Rectángulo 276" width="15.568" height="5.189" transform="translate(446.673 364.714)" fill="#9866ff"/>
+    <rect id="Rectángulo_277" data-name="Rectángulo 277" width="15.568" height="5.189" transform="translate(467.431 364.714)" fill="#9866ff"/>
+    <rect id="Rectángulo_278" data-name="Rectángulo 278" width="15.568" height="5.189" transform="translate(488.188 364.714)" fill="#9866ff"/>
+    <rect id="Rectángulo_279" data-name="Rectángulo 279" width="15.568" height="77.84" transform="translate(508.945 286.874)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_280" data-name="Rectángulo 280" width="15.568" height="5.189" transform="translate(508.945 364.714)" fill="#9866ff"/>
+  </g>
+</svg>

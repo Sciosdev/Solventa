@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.718" height="90.718" viewBox="0 0 90.718 90.718">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.192" stop-color="#44ffc9"/>
+      <stop offset="0.702" stop-color="#44ffc9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-29" transform="translate(-277.263 -656.156)">
+    <rect id="Rectángulo_264" data-name="Rectángulo 264" width="79.379" height="51.029" transform="translate(282.933 673.166)" fill="#6427c3"/>
+    <path id="Trazado_631" data-name="Trazado 631" d="M970.46,741.2V724.2h-5.67V741.2h-5.67v5.67h17.01V741.2Zm0,0" transform="translate(-645.003)" fill="#9866ff"/>
+    <path id="Trazado_632" data-name="Trazado 632" d="M950.615,684.505a17.01,17.01,0,1,0,17.01,17.01h-17.01Zm0,0" transform="translate(-645.003)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_633" data-name="Trazado 633" d="M956.285,678.835v17.01h17.01a17.01,17.01,0,0,0-17.01-17.01Zm0,0" transform="translate(-645.003)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_265" data-name="Rectángulo 265" width="17.01" height="5.67" transform="translate(339.632 684.505)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_266" data-name="Rectángulo 266" width="17.01" height="5.67" transform="translate(339.632 695.845)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_267" data-name="Rectángulo 267" width="17.01" height="5.67" transform="translate(339.632 707.185)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_634" data-name="Trazado 634" d="M978.965,661.826v-5.67h-22.68v5.67H922.266v11.34h90.718v-11.34Zm0,0" transform="translate(-645.003)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_268" data-name="Rectángulo 268" width="79.379" height="5.67" transform="translate(282.933 667.496)" fill="#9866ff"/>
+  </g>
+</svg>
