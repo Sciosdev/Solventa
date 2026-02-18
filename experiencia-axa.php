@@ -25,15 +25,7 @@
         </div>
 
         <aside class="experiencia-axa__media" aria-hidden="true">
-          <div class="experiencia-axa__media-grid">
-            <img src="img/driver-rewards.jpeg" alt="">
-            <img src="img/driver-rewards.jpeg" alt="">
-            <img src="img/driver-rewards.jpeg" alt="">
-            <img src="img/driver-rewards.jpeg" alt="">
-          </div>
-          <div class="experiencia-axa__brand-block">
-            <span>AXA</span>
-          </div>
+          <img class="experiencia-axa__media-image" src="https://solventatech.com/img/Imagen-Axa.png" alt="Experiencia AXA Driver Rewards">
         </aside>
       </section>
     </main>
